@@ -1,0 +1,405 @@
+*{
+    margin-top: 0%;
+}
+/* body{
+    margin-left: 5px;
+} */
+.idinstructor{
+    background: linear-gradient(-45deg,#141413,#737a43);
+    
+    height:780px;
+    margin-top: -0.6%;
+    /* width: 100%; */
+}
+.teach
+{
+    width:225px ;
+    height:300px ;
+    border-radius:6px;
+    
+}
+h1{
+text-align: center;
+}
+img{
+    width:100%;
+}
+.pdetail{
+    text-align: left;
+    height: 90px;
+    width: 60%;
+    /* margin-bottom: 30px; */
+    border:2px solid black;
+    /* margin-left: 100px; */
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 5px;
+    
+    margin:0 auto;  
+   
+}
+.form-ins
+{
+    height: 550px;
+    width: 440px;
+    
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.form-Container
+{
+    
+    margin-bottom:40px ;
+   
+}
+.form-item
+{
+    font-size: 35px;
+    margin-left: 15px;
+    align-items: self;
+    border-radius: 5px;
+    padding:20px 40px;
+     
+}
+.form-ins
+{
+    text-align: center;
+}
+.Subs{
+    font-size: 19px;
+    margin-left: 20px;
+}
+.rad-but{
+    font-size: 19px;
+    margin-left: 20px;
+}
+.Exp{
+    font-size: 19px;
+    margin-left: 20px;
+}
+.Submissions{
+    font-size: 35px;
+    margin-left: 20px;
+}
+.form-ins input[type=text]
+{
+    padding:6px;
+	border:none;
+    margin-top:8px;
+    font-size:17px;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+.form-ins #hd
+{
+    text-align: center;
+    
+    margin-bottom: 0px;
+}
+.form-ins input[type=number]
+{
+    padding:6px;
+	border:none;
+    margin-top:8px;
+    font-size:17px;
+    border-radius: 5px;
+    text-align: center;
+    
+   
+}
+.form-ins input[type=email]
+{
+    padding:6px;
+	border:none;
+    margin-top:8px;
+    font-size:17px;
+    border-radius: 5px;
+    text-align: center;
+}
+.rad-but{
+text-align: center;
+}
+.Submissions input
+{
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.descriptive{
+    background-color: rgb(128, 111, 129);
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+}
+
+
+/* @media (width:360px) 
+{
+   
+    img
+    {
+        width: 100%;
+    }
+    .idinstructor h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    .idinstructor
+    {
+        height:1100px;
+    }
+    .pdetail{
+        text-align: left;
+        height: 590px;
+        width: 80%;
+      
+        border:2px solid black;
+        
+        border-radius: 15px;
+        font-size: 25px;
+        padding: 5px;
+        
+        margin:0 auto;  
+    }
+    .form-ins
+    {
+    height: 600px;
+    width: 440px;
+    
+    
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 30px;
+    
+    }
+    .descriptive
+    {
+       width:80%;
+       height:200px;
+       margin:0 auto;
+    }
+    
+} */
+@media (max-width:414px)
+{
+   
+    img
+    {
+        width: 100%;
+    }
+    .idinstructor h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    .idinstructor
+    {
+        height:1100px;
+    }
+    .pdetail{
+        text-align: left;
+        height: 390px;
+        width: 80%;
+        /* margin-bottom: 30px; */
+        border:2px solid black;
+        /* margin-left: 100px; */
+        border-radius: 15px;
+        font-size: 25px;
+        padding: 5px;
+        
+        margin:0 auto;  
+    }
+    .form-ins
+    {
+    height: 600px;
+    width: 340px;
+    
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 30px;
+    border-radius: 15px;
+    }
+    .descriptive
+    {
+       width:80%;
+       height:200px;
+       margin:0 auto;
+    }
+}
+@media (width:540px)
+{
+   
+    img
+    {
+        width: 100%;
+    }
+    .idinstructor h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    .idinstructor
+    {
+        height:1100px;
+    }
+    .pdetail{
+        text-align: left;
+        height: 290px;
+        width: 80%;
+      
+        border:2px solid black;
+        
+        border-radius: 15px;
+        font-size: 25px;
+        padding: 5px;
+        
+        margin:0 auto;  
+    }
+    .form-ins
+    {
+    height: 600px;
+    width: 440px;
+    
+    
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 30px;
+    
+    }
+    .descriptive
+    {
+       width:80%;
+       height:200px;
+       margin:0 auto;
+    }
+    
+}
+@media (width:320px)
+{
+   
+    img
+    {
+        width: 100%;
+    }
+    .idinstructor h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    .idinstructor
+    {
+        height:1100px;
+    }
+    .pdetail{
+        text-align: left;
+        height: 390px;
+        width: 80%;
+        /* margin-bottom: 30px; */
+        border:2px solid black;
+        /* margin-left: 100px; */
+        border-radius: 15px;
+        font-size: 25px;
+        padding: 5px;
+        
+        margin:0 auto;  
+    }
+    .form-ins
+    {
+    height: 600px;
+    width: 300px;
+    
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 30px;
+    border-radius: 15px;
+    }
+    .descriptive
+    {
+       width:80%;
+       height:200px;
+       margin:0 auto;
+    }
+}
+@media (width:768px)
+{
+   
+    img
+    {
+        width: 100%;
+    }
+    .idinstructor h1{
+        font-size: 35px;
+        text-align: center;
+        padding-top: 15px;   
+     }
+    .idinstructor
+    {
+        height:1200px;
+    }
+    .pdetail{
+        text-align: left;
+        height: 290px;
+        width: 80%;
+        /* margin-bottom: 30px; */
+        border:2px solid black;
+        /* margin-left: 100px; */
+        border-radius: 15px;
+        font-size: 30px;
+        padding: 5px;
+        
+        margin:0 auto;  
+    }
+    .form-ins
+    {
+    height: 750px;
+    width: 540px;
+    
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 35px;
+    border-radius: 15px;
+    }
+
+        
+    .form-item .Items
+    {
+        font-size: 35px;
+    }
+    .rad-but{
+        font-size: 30px;
+       
+    }
+    .Exp
+    {
+        font-size: 35px;
+    }
+    .form-ins input[type=text]
+    {
+        padding:16px;
+        font-size:27px;
+
+    }
+        .form-ins input[type=number]
+        {
+            padding:16px;
+           
+            font-size:27px;
+           
+        }   
+        .form-ins input[type=email]
+        {
+            padding:16px;   
+            font-size:27px;    
+        }
+    .descriptive
+    {
+       width:80%;
+       height:200px;
+       margin:0 auto;
+    }
+}
